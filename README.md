@@ -35,7 +35,7 @@ Uses the LLaMA 3 Tokenizer
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bitnet700.git
+[https://github.com/chetanreddyv/bitnet700.git]
 cd bitnet700
 ```
 
